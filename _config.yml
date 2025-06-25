@@ -1,1 +1,1 @@
-include: ["*.html"]
+include: ["index", "about", "contact", "experience", "portfolio", "services", "skills"]
