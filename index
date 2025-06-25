@@ -23,18 +23,18 @@
     <header>
         <div class="logo"><span style="color: #007bff;">AHIMARINA</span> Joachin Hiacynthe</div>
         <nav>
-            <a href="index.html" class="active">Accueil</a>
-            <a href="about.html">À propos</a>
-            <a href="services.html">Services</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="contact.html">Contact</a>
+            <a href="/" class="active">Accueil</a>
+            <a href="/about">À propos</a>
+            <a href="/services">Services</a>
+            <a href="/portfolio">Portfolio</a>
+            <a href="/contact">Contact</a>
         </nav>
         <img src="assets/img/avataaars.svg" alt="Joachin Hiacynthe" class="header-img">
     </header>
 
     <section class="text-center py-5">
         <h1>Bienvenue sur mon Portfolio</h1>
-        <p>Je suis Joachin Hiacynthe, développeur web basé à Fort-Dauphin. Découvrez mes projets et services !</p>
+        <p>Je suis Joachin Hiacynthe, développeur web basé à Fort-Dauphin, passionné par l'informatique et les nouvelles technologies. Découvrez mes projets et services !</p>
     </section>
 
     <footer>

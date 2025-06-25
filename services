@@ -28,29 +28,29 @@
     <header>
         <div class="logo"><span style="color: #007bff;">AHIMARINA</span> Joachin Hiacynthe</div>
         <nav>
-            <a href="index.html">Accueil</a>
-            <a href="about.html">À propos</a>
-            <a href="services.html" class="active">Services</a>
-            <a href="portfolio.html">Portfolio</a>
-            <a href="contact.html">Contact</a>
+            <a href="/">Accueil</a>
+            <a href="/about">À propos</a>
+            <a href="/services" class="active">Services</a>
+            <a href="/portfolio">Portfolio</a>
+            <a href="/contact">Contact</a>
         </nav>
     </header>
 
     <section id="services" class="section">
-        <h2>Ce que je fais</h2>
+        <h2>Ce que je fais</h2><br>
         <p>De la compréhension de vos besoins à la livraison du produit final, je m’occupe de tout.</p>
         <div class="row">
             <div class="col-md-4 what-i-do-item">
-                <h4>UI/UX Design</h4>
-                <p>Un design efficace qui capte l’attention et transmet un message clair.</p>
-            </div>
-            <div class="col-md-4 what-i-do-item">
                 <h4>Développement Web</h4>
-                <p>Je crée des sites professionnels adaptés à vos besoins.</p>
+                <p>Création de sites professionnels avec PHP, JavaScript, et frameworks comme Laravel.</p>
             </div>
             <div class="col-md-4 what-i-do-item">
-                <h4>Développement d’Apps</h4>
-                <p>Des applications conviviales avec un design moderne.</p>
+                <h4>Support IT</h4>
+                <p>Gestion et maintenance des systèmes IT, y compris en milieu industriel.</p>
+            </div>
+            <div class="col-md-4 what-i-do-item">
+                <h4>UX/UI Design</h4>
+                <p>Optimisation d’interfaces utilisateur pour une expérience fluide.</p>
             </div>
         </div>
         <!-- <img src="assets/img/services-img.jpg" alt="Services" class="header-img" style="margin-top: 20px;"> -->
