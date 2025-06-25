@@ -1,2 +1,0 @@
-include: ["index", "about", "contact", "experience", "portfolio", "services", "skills"]
-permalink: /:basename
